@@ -1,0 +1,25 @@
+;<?php exit() ?> Configuration for TFF3
+;create config.ini.dev.php for local development
+
+[database]
+server = 
+user = 
+pw = 
+database = 
+prefix = tff_
+
+[view]
+template = 2018_relaunch/
+
+[http]
+webroot = 
+mp3root = 
+default_title = Projekt
+caching = true
+
+[security]
+salt = b
+admin = 
+
+[features]
+use_ajax = false

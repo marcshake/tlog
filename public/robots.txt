@@ -1,0 +1,11 @@
+# URL:https://www.trancefish.de/
+
+
+User-agent: *
+Disallow: web/
+
+User-agent: *
+Disallow: img/
+
+User-agent: *
+Disallow: assets/

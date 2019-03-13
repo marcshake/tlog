@@ -1,0 +1,25 @@
+;<?php exit() ?> Configuration for TFF3
+
+
+[database]
+server = localhost
+user = user
+pw = password
+database = database
+prefix = tff_
+[view]
+template = 2019
+
+[http]
+webroot = http://tlog4.loc/
+mp3root =
+default_title = TranceFish Media
+caching = true
+
+[security]
+salt = b
+admin =
+
+[features]
+use_ajax = false
+
