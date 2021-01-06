@@ -2918,10 +2918,10 @@ timers-browserify@^2.0.4:
   dependencies:
     setimmediate "^1.0.4"
 
-tinymce@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.0.0.tgz#03e819e8f3a2ce116fc445541fa493d6b7f5d827"
-  integrity sha512-aWBXuV1S+JaZUoteLgOoDv9Ra7wcohpRFoHhldoRWUg9fdA36zC9XPjWfxNgzaANqKdOICxZ3tguLmi3RLtiLA==
+tinymce@^5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.6.0.tgz#b5eda4888e1a607ddd545619cfaa137d59de14b4"
+  integrity sha512-f8LsyT80j8hD4wrL8Sac0DWDG5k10cDyykL/qkJ6kexn1KMt7w1ByrGlUm53XCYDqtavBA5snTU7odioMwSXSQ==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
